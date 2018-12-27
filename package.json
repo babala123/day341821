@@ -1,0 +1,23 @@
+{
+  "name": "day341821",
+  "version": "1.0.0",
+  "description": "",
+  "main": "drag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babala123/day341821.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babala123/day341821/issues"
+  },
+  "homepage": "https://github.com/babala123/day341821#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
